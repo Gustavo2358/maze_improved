@@ -9,7 +9,7 @@ Maze_improved
     * O código se encontra na pasta `examples/maze`.
 * Link do WebAssembly: https://gustavo2358.github.io/maze_improved/maze/maze.html
 
-Esse projeto utiliza algumas técnicas da disciplina de computação gráfica da UFABC. Consiste em uma cena simples 3d que renderiza um labirinto e um coelho dourado que representa o fim do labirinto. Consiste em uma versão com textura e iluminação da tarefa 2. 
+Esse projeto utiliza algumas técnicas da disciplina de computação gráfica da UFABC. Consiste em uma cena simples 3d que renderiza um labirinto e um coelho dourado que representa o fim do labirinto. É em uma versão com textura e iluminação da tarefa 2. 
 
 ### Iluminação e textura
 
